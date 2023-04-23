@@ -19,17 +19,13 @@ npm install
 ### Compile and Hot-Reload for Development
 
 ```sh
-npm run dev
+npm run dev:h5
 ```
 
 ### Compile and Minify for Production
 
 ```sh
-npm run build
+npm run build:h5
 ```
 
 ### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
