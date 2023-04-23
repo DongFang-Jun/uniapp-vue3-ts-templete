@@ -8,7 +8,7 @@
 
 ## DEMO图
 
-![Image text](https://github.com/vivoX9/vue3-js-antd-less-pc-templete/blob/master/src/assets/images/display/admin.png)
+![Image text](https://github.com/vivoX9/uniapp-vue3-ts-templete/blob/master/src/assets/images/display/demo.gif)
 
 ## Project Setup
 
