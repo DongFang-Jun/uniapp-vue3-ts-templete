@@ -27,5 +27,3 @@ npm run dev:h5
 ```sh
 npm run build:h5
 ```
-
-### Lint with [ESLint](https://eslint.org/)
