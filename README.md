@@ -3,7 +3,7 @@
 ## 项目介绍
 
 ```
-包含常用的一些功能。pinia,接口请求封装，组件使用，uni-ui使用；以及基本的目录架构
+包含常用的一些功能。pinia,接口请求封装，组件使用，uni-ui使用；环境变量区分；以及基本的目录架构
 ```
 
 ## DEMO图
@@ -19,7 +19,7 @@ npm install
 ### Compile and Hot-Reload for Development
 
 ```sh
-npm run dev:h5
+npm run dev:h5-test
 ```
 
 ### Compile and Minify for Production
